@@ -1,0 +1,14 @@
+.venv
+.git
+data
+docs
+experiments
+tests
+azure
+scripts
+__pycache__
+*.pyc
+*.egg-info
+.pytest_cache
+*.zip
+.DS_Store

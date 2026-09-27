@@ -1,0 +1,15 @@
+.venv/
+data/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+.DS_Store
+*.zip
+experiments/host_shift.json
+
+# internal: quotes thesis code and unpublished audit notes; never publish
+docs/HANDOFF.md
+docs/setup/
